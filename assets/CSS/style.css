@@ -61,32 +61,7 @@ body {
     grid-template-columns: repeat(3, 1fr);
     gap: 17px 14px;
 }
-.content1{
-    background-color: #d1cfd3;
-    border-radius: 10px;
-    padding: 10px;
-}
-.content2 {
-    background-color: #d1cfd3;
-    border-radius: 10px;
-    padding: 10px;
-}
-.content3 {
-    background-color: #d1cfd3;
-    border-radius: 10px;
-    padding: 10px;
-}
-.content4 {
-    background-color: #d1cfd3;
-    border-radius: 10px;
-    padding: 10px;
-}
-.content5 {
-    background-color: #d1cfd3;
-    border-radius: 10px;
-    padding: 10px;
-}
-.content6 {
+.content{
     background-color: #d1cfd3;
     border-radius: 10px;
     padding: 10px;
