@@ -61,7 +61,7 @@ body {
     grid-template-columns: repeat(3, 1fr);
     gap: 17px 14px;
 }
-.content{
+.project .content{
     background-color: #d1cfd3;
     border-radius: 10px;
     padding: 10px;
